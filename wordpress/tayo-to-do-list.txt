@@ -1,0 +1,4 @@
++ Make a maintain.sh script
++ Create new account for sysadmin team: john/DmTr5MdH
++ Backup database to db-srv2
++ Update wordpress to new version
